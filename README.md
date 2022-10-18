@@ -15,10 +15,11 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `🗒️`
-* `React Js with Typescript`
-* `Tailwind Css`
-* `Daisyui`
-* My design figma <a href="https://www.figma.com/file/ZWYyKOhBVEM13gkr4SNFdv/todo-app?node-id=12%3A366" target="_blank">Hire</a>
+
+- `React Js with Typescript`
+- `Tailwind Css`
+- My design figma <a href="https://www.figma.com/file/ZWYyKOhBVEM13gkr4SNFdv/todo-app?node-id=12%3A366" target="_blank">Hire</a>
 
 ### `Resualt`
-<img src="./priview.png"/>
+
+<img src="./priview.png" width="90%"/>
